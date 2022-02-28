@@ -30,4 +30,9 @@ This repository contains files related to the Web Game Dev Bootcamp organized by
   <li><a href="https://www.codeate.in/">Code8</a></li>
 </ul>
 
+<h2>Projects Under Taken</h2>
+<ul>
+  <li>Minor Projects :- Toss The Dice</li>
+</ul>
+
 <strong>Website: <a href="<https://code8.ggeeks.me/>" target="_blank">https://code8.ggeeks.me/</a></strong>
