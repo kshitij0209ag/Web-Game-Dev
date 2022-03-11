@@ -12,7 +12,7 @@ setTimeout(() => {
 
 
 document.onkeydown = function (e) {
-    // console.log(e.keyCode);
+    console.log(e.keyCode);   /// 
     if (e.keyCode == 38) {
         mario = document.querySelector('.mario');
         mario.classList.add('animateMario');
@@ -65,7 +65,7 @@ setInterval(() => {
                 cross = true;
             }, 1000);
             lifeCount--;
-            // obstacle.classList.remove('obstacleAni')
+            // obstacle.classLi2st.remove('obstacleAni')  /// commen   t
             life.innerHTML = "Remaining Live : " + lifeCount;
         }
     }
