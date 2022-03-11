@@ -12,7 +12,7 @@ setTimeout(() => {
 
 
 document.onkeydown = function (e) {
-    console.log(e.keyCode);   /// 
+    console.log("Key code is: ",e.keyCode);   /// 
     if (e.keyCode == 38) {
         mario = document.querySelector('.mario');
         mario.classList.add('animateMario');
